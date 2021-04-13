@@ -3,7 +3,7 @@
     {
       "text": "dance",
       "day": "monday",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     },
     {
