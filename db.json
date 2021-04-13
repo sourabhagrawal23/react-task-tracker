@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Studying at school",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "dance",
+      "day": "monday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "play",
+      "day": "june",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "do anuthing",
+      "day": "io",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
