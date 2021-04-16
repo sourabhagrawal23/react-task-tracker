@@ -1,22 +1,22 @@
 {
   "tasks": [
     {
-      "text": "dance",
-      "day": "monday",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "play",
-      "day": "june",
-      "reminder": false,
-      "id": 5
-    },
-    {
-      "text": "do anuthing",
-      "day": "io",
+      "text": "Meeting at Work",
+      "day": "April 1 2021, Thursday",
       "reminder": true,
-      "id": 6
+      "id": 1
+    },
+    {
+      "text": "Weekend Project",
+      "day": "April 10 2021, Saturday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Seminar at College",
+      "day": "April 14 2021, Wednesday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }

@@ -18,7 +18,7 @@ function App() {
       setTasks(tasksFromServer);
     }
     getTasks()
-  }, [])
+  }, [tasks])
 
 
   // Fetch Tasks

@@ -6,7 +6,7 @@ const About = () => {
         <div>
             <center>
                 <h4>Version 1.0.0</h4>
-                <Link to='/'>Go Back</Link>
+                <Link to='/' style={{ color: "white" }}>Go Back</Link>
             </center>
         </div>
     )
