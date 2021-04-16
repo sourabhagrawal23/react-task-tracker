@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Screenshots
 
 ### 1. Main Screen
-![0]https://github.com/sourabhagrawal23/react-task-tracker/blob/master/Screenshots/TaskTracker_1.png)
+![0](https://github.com/sourabhagrawal23/react-task-tracker/blob/master/Screenshots/TaskTracker_1.png)
 
 ### 2. Add Task
 ![1](https://github.com/sourabhagrawal23/react-task-tracker/blob/master/Screenshots/TaskTracker_2.png)
