@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Screenshots
 
 ### 1. Main Screen
@@ -9,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 2. Add Task
 ![1](https://github.com/sourabhagrawal23/react-task-tracker/blob/master/Screenshots/TaskTracker_2.png)
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
